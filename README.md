@@ -1,6 +1,7 @@
 # HikersWatch (Android)
 
 ![alt tag](https://github.com/shrobon/HikersWatch/blob/master/Hikers%20Watch.PNG)
+
 This android app helps hikers by displaying to them latitude, longitude, altitude, accuracy and address information.
 I was building this app, while participating in "The Complete Android N Developer Course" by Rob Percival @ Udemy.com
 
